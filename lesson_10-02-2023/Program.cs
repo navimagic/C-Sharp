@@ -7,18 +7,32 @@
 
 
 
+// Console.Clear();
+// Console.Write("Введите первое число: ");
+// int firstValue = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// int secondValue = Convert.ToInt32(Console.ReadLine());
+// if (firstValue == Math.Pow(secondValue, 2))
+//{
+//    Console.WriteLine("Число " + firstValue + " является квадратом от " + secondValue);
+//}
+//else
+//{
+//    Console.WriteLine("Число " + firstValue + " не является квадратом от " + secondValue);
+//}
+// 
+
+
 Console.Clear();
-Console.Write("Введите первое число: ");
-int firstValue = Convert.ToInt32(Console.ReadLine());
-
-Console.Write("Введите второе число: ");
-int secondValue = Convert.ToInt32(Console.ReadLine());
-
-if (firstValue == Math.Pow(secondValue, 2))
+Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+if (N < 0)
 {
-    Console.WriteLine("Число " + firstValue + " является квадратом от " + secondValue);
+    N = N * (-1);
 }
-else
+int negativeN = N * (-1);
+while (negativeN <= N)
 {
-    Console.WriteLine("Число " + firstValue + " не является квадратом от " + secondValue);
+    Console.WriteLine(negativeN);
+    negativeN++;
 }
