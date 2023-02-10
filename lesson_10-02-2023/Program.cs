@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+int number = 73;
+int result = number * number;
+Console.WriteLine("Квадрат от числа: " + number + " равен " + result);

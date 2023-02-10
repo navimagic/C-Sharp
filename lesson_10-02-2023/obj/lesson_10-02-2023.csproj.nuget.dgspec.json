@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/lesson_10-02-2023/lesson_10-02-2023.csproj": {}
+    "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/Lesson_10-02-2023/Lesson_10-02-2023.csproj": {}
   },
   "projects": {
-    "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/lesson_10-02-2023/lesson_10-02-2023.csproj": {
+    "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/Lesson_10-02-2023/Lesson_10-02-2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/lesson_10-02-2023/lesson_10-02-2023.csproj",
-        "projectName": "lesson_10-02-2023",
-        "projectPath": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/lesson_10-02-2023/lesson_10-02-2023.csproj",
+        "projectUniqueName": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/Lesson_10-02-2023/Lesson_10-02-2023.csproj",
+        "projectName": "Lesson_10-02-2023",
+        "projectPath": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/Lesson_10-02-2023/Lesson_10-02-2023.csproj",
         "packagesPath": "/Users/ivankotelnikov/.nuget/packages/",
-        "outputPath": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/lesson_10-02-2023/obj/",
+        "outputPath": "/Users/ivankotelnikov/Desktop/Geek_Brains/C#/Lesson_10-02-2023/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivankotelnikov/.nuget/NuGet/NuGet.Config"
